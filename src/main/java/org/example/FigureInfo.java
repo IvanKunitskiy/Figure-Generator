@@ -1,5 +1,5 @@
-package org.example.Generators;
+package org.example;
 
 public interface FigureInfo {
-    void
+    void showInfo();
 }
